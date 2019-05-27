@@ -2,10 +2,10 @@
 --------------------------------
 *Prerequisite*
 --------------------------------
-Please install:
-python >= 3.6 version
-Tensorflow >= 1.12.0
-scikit-learn >= 0.20.2
+Please install:<br/>
+python >= 3.6 version<br/>
+Tensorflow >= 1.12.0<br/>
+scikit-learn >= 0.20.2<br/>
 
 Command:
 ------------------------------
