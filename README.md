@@ -7,5 +7,4 @@ python cmfw.py data/dat3/F1_F2_SL_binary data/F1_F2_coexpr data/F1_F2_me data/da
 
 Notes: 332 is the row counts of the input matrix
 
-Please contact Herty Liany at e0146315@u.nus.edu if you encountered any problems. thanks.
-#2019.
+
