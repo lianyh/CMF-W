@@ -1,8 +1,14 @@
 # CMF-W
 --------------------------------
+*Prerequisite*
+--------------------------------
+Please install:
+python >= 3.6 version
+Tensorflow >= 1.12.0
+scikit-learn >= 0.20.2
 
 Command:
-
+------------------------------
 python cmfw.py data/F1_F2_SL_binary data/F1_F2_coexpr_for_train data/F1_F2_me_for_train data/F1_F2_pathway_for_train data/F1_F2_ppi_for_train data/F1_F2_proteincomplex_for_train data/F1_F2_index_for_train data/F3_index_for_test 332<br/>
 
 1st column: training set with {1,0} binary value, 1=SL, 0=non-SL (gene(row) * gene(col) matrix)<br/>
