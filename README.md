@@ -15,7 +15,7 @@ python cmfw.py data/F1_F2_SL_binary data/F1_F2_coexpr_for_train data/F1_F2_me_fo
 2nd column: co-expression training set with co-expression score (gene(row) * gene(col) matrix)<br/>
 3rd column: mutual exclusivity(ME) training set with ME score (gene(row) * gene(col) matrix)<br/>
 4th column: pathway training set with {1,0} binary value, 1=co-membership, 0=non co-membership (gene(row) * gene(col) matrix)<br/>
-5th column: ppi training set with {ppi interaction score}
+5th column: ppi training set with {ppi interaction score} <br/>
 6th column: protein-complex training set with {1,0} binary value, 1=complex co-membership, 0=non co-membership (gene(row) * gene(col) matrix)<br/>
 7th column: gene pairs selected for training (row, column, SL/non-SL {1,0}). The row and column index is started with 0<br/>
 8th column: gene pairs selected for testing (row, column, SL/non-SL {1,0}). The row and column index is started with 0<br/>
