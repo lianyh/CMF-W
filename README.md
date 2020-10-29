@@ -21,3 +21,17 @@ python cmfw.py data/F1_F2_SL_binary data/F1_F2_coexpr_for_train data/F1_F2_me_fo
 8th column: gene pairs selected for testing (row, column, SL/non-SL {1,0}). The row and column index is started with 0<br/>
 9th column: the row counts of the input matrix<br/>
 
+Citation
+--------------------------------
+If you find this useful for your research, we would be appreciated if you cite the following papers:<br/>
+
+@article{liany2020predicting,<br/>
+  title={Predicting synthetic lethal interactions using heterogeneous data sources},<br/>
+  author={Liany, Herty and Jeyasekharan, Anand and Rajan, Vaibhav},<br/>
+  journal={Bioinformatics},<br/>
+  volume={36},<br/>
+  number={7},<br/>
+  pages={2209--2216},<br/>
+  year={2020},<br/>
+  publisher={Oxford University Press}<br/>
+}<br/>
